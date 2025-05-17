@@ -1,3 +1,3 @@
-# personal-projects
+# Simple Number Guessing Game
 
-personal private projects
+Guesses number if correct or not and congratulates you!
